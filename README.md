@@ -1,4 +1,4 @@
-### Hi 👋, I'm Hoàng - Backend Fresher Developer
+<h1 align="center">Hi 👋, I'm Hoàng - Backend Fresher Developer</h1>
 <p align="center">
 🌱 Đam mê phát triển hệ thống backend hiện đại và hiệu quả.<br>
 🎯 Mục tiêu: Trở thành Backend Engineer chuyên nghiệp trong môi trường Agile.
@@ -8,10 +8,10 @@
 
 ## 🔍 About Me
 
-- 👨‍💼 Tôi đang học chuyên sâu về **Spring Boot**, **RESTful API**, và **Microservices**.
+- 👨‍💻 Tôi đang học chuyên sâu về **Spring Boot**, **RESTful API**, và **Microservices**.
 - 📦 Đã triển khai các project cá nhân sử dụng **MongoDB**, **JWT**, và **Socket.IO**.
 - 📚 Luôn học hỏi thêm về **Clean Architecture**, **CI/CD**, và **Docker/Kubernetes**.
-- 🗨️ Tôi yêu thích làm việc với Java, Go, và TypeScript.
+- 💬 Tôi yêu thích làm việc với Java, Go, và TypeScript.
 
 ---
 
@@ -60,19 +60,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hoangcode204&theme=onedark&no-frame=true&title=Followers,Repositories,Commits,Stars,PullRequest,Issues&margin-w=10" />
-</p>
-
----
-
-## 🚀 Specialized Developer Insights
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-Backend-informational?style=flat-square&logo=java&logoColor=white&color=orange"/>
-  <img src="https://img.shields.io/badge/API-RESTful-green?style=flat-square&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Authentication-JWT-blueviolet?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Database-MongoDB-success?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Containerized-Docker-blue?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=hoangcode204&theme=gruvbox&margin-w=10&no-frame=true&row=1&column=7" />
 </p>
 
 ---
@@ -85,7 +73,7 @@
 
 ---
 
-## 😁 Dev Meme Break
+## 😄 Dev Meme Break
 
 <p align="center">
   <img src="https://random-memer.herokuapp.com/" width="450px"/>
