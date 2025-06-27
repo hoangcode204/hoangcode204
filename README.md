@@ -1,86 +1,47 @@
-<h1 align="center">Hi 👋, I'm Hoàng - Backend Fresher Developer</h1>
+<h1 align="center">Hi there, I'm Nguyễn Sỹ Huy Hoàng 👋</h1>
 <p align="center">
-🌱 Đam mê phát triển hệ thống backend hiện đại và hiệu quả.<br>
-🎯 Mục tiêu: Trở thành Backend Engineer chuyên nghiệp trong môi trường Agile.
+  <b>Backend Fresher Developer | Java | Spring Boot | MongoDB</b>
+</p>
+
+<p align="center">
+  <a href="https://twitter.com"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
+  <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Coffee-FFDD00?style=flat&logo=buymeacoffee&logoColor=black"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🔍 About Me
+## 👨‍💻 About Me
 
-- 👨‍💻 Tôi đang học chuyên sâu về **Spring Boot**, **RESTful API**, và **Microservices**.
-- 📦 Đã triển khai các project cá nhân sử dụng **MongoDB**, **JWT**, và **Socket.IO**.
-- 📚 Luôn học hỏi thêm về **Clean Architecture**, **CI/CD**, và **Docker/Kubernetes**.
-- 💬 Tôi yêu thích làm việc với Java, Go, và TypeScript.
+I'm a tech enthusiast with a passion for backend development. I'm constantly learning new tools, reading books, and building side projects. I enjoy clean code, scalable architecture, and creating REST APIs.
 
----
+## 📊 GitHub Activity
 
-## 🌐 Contact Me
+```text
+🌞 Morning    2236 commits   ▓░░░░░░░░░░░░░░░░   4.33 %
+🌆 Daytime   25996 commits  ████████████░░░░░   50.64 %
+🌃 Evening   11429 commits  █████░░░░░░░░░░░░   24.15 %
+🌙 Night     12836 commits  █████░░░░░░░░░░░░   25.88 %
+```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ho%C3%A0ng-nguy%E1%BB%85n-s%E1%BB%B9-huy-b2a65b371/)  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/huy.hoang.641148/)  
-[![Behance](https://img.shields.io/badge/Behance-1769ff?style=flat-square&logo=behance&logoColor=white)](https://behance.net/HHoang86)
+## 🛠️ Languages and Tools
 
----
-
-## 🛠️ Tech Stack
-
-**Backend:**  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)  
-![Socket.IO](https://img.shields.io/badge/socket.io-black?style=for-the-badge&logo=socket.io)  
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
-**Database & Tools:**  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-**Others:**  
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hoangcode204&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoangcode204&theme=tokyonight&hide_border=true" width="48%" />
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" width="40"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangcode204&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+## 📈 Visitors
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hoangcode204&theme=gruvbox&margin-w=10&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-## 📌 Quote for Developers
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-
-## 😄 Dev Meme Break
-
-<p align="center">
-  <img src="https://random-memer.herokuapp.com/" width="450px"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=hoangcode204&icon=0&color=0" />
+<p>
+  <img src="https://visitcount.itsvg.in/api?id=hoangcode204&label=Profile%20Views&color=6&icon=5&pretty=true" />
 </p>
